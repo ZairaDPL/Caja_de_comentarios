@@ -1,0 +1,19 @@
+*{
+    background-color: rgba(246, 139, 203, 0.985);
+}
+
+#div0{
+    display: flex;
+    margin: 50px;
+}
+
+#div1{
+    align-content: center;
+    padding-right: 50px;
+    padding-left: 80px;
+}
+
+img{
+    border-radius: 2%;
+    width: 400px;
+}
